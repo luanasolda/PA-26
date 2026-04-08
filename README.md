@@ -1,2 +1,2 @@
 # PA-26
-este repositório refere-se a atividades na aula de Programação e algoritmo de etec 
+Este repositório refere-se as atividades na aula de Programação e algoritmo na ETEC no meu 1° ano do ensino médio com habilitação proficional em informatica para internet (TI)
